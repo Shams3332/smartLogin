@@ -1,0 +1,91 @@
+.first-page{
+  background-color: #24353f;
+  height: 100vh;
+}
+.first-page .content{
+  background-color: #24353f;
+}
+.first-page .content h1{
+  color:#17a2b8;
+}
+.first-page .content p{
+  color: #fff;
+}
+.first-page a{
+  text-decoration: none;
+  color: #fff;
+}
+.first-page a:hover{
+  border-bottom: 1px solid #fff;
+}
+.first-page button{
+  border: 1px solid #17a2b8;
+  color: #17a2b8;
+  background-color: transparent;
+  border-radius: 5px;
+}
+.first-page button:hover{
+  color: #fff;
+  background-color: #17a2b8;
+}
+.first-page button a:hover{
+  border-bottom: none;
+}
+
+/* signup */
+.signup{
+  background-color: #24353f;
+  height: 100vh;
+}
+.signup h1{
+  color: #17a2b8;
+}
+.signup a{
+  text-decoration: none;
+  color: #fff;
+}
+.signup a:hover{
+  border-bottom: 1px solid #fff;
+  color: #fff;
+}
+.signup button{
+  border: 1px solid #17a2b8;
+  color: #17a2b8;
+  background-color: transparent;
+  border-radius: 5px;
+}
+.signup button:hover{
+  color: #fff;
+  background-color: #17a2b8;
+}
+.signup p{
+  color: #fff;
+}
+/* login */
+.login{
+  height: 100vh;
+  background-color: #24353f;
+}
+.login .header{
+  background-color: #24353f;
+}
+.login a{
+  text-decoration: none;
+  color: #fff;
+  font-weight: 400;
+}
+.login button{
+  background-color: transparent;
+  border: 1px solid rgb(255, 193, 7);
+  padding: 8px;
+  color: #fff;
+  border-radius: 5px;
+}
+.login button:hover{
+  background-color:rgb(255, 193, 7);
+}
+.login .content h2{
+  background-color: #24353f;
+  color: #17a2b8;
+  padding: 50px 0;
+}
